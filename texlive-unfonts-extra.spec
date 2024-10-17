@@ -3,7 +3,7 @@ Version:	56291
 Release:	2
 Summary:	TrueType version of Un-fonts
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/unfonts-extra
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/unfonts-extra
 License:	gpl2
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/unfonts-extra.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/unfonts-extra.doc.r%{version}.tar.xz
